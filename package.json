@@ -1,0 +1,12 @@
+{
+  "name": "hello-world-electron",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.8.4"
+  },
+  "scripts": {
+    "start": "electron index.js"
+  }
+}
